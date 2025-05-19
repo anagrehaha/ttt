@@ -1,0 +1,11 @@
+df -g 
+df -h 
+smitty 
+chdev
+chdef
+cp -p 
+rm -r 
+rm -rf 
+chuser 
+mkuser
+lssrc -a 
